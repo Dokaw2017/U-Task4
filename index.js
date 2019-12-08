@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 const berry = document.getElementById('berry');
 console.log(berry.outerHTML);
 console.log('I found the berry: ', berry.innerHTML);
